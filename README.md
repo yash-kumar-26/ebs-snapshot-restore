@@ -319,13 +319,13 @@ ebs-snapshot-restore/
     ├── 01-ec2-running.png
     ├── 02-ebs-volume-identified.png
     ├── 03-snapshot-created.png
-    ├── 04-new-volume-from-snapshot.png
+    ├── 04a-new-volume-from-snapshot.png
     ├── 04b-volumes-detail.png
-    ├── 05-volume-attached.png
+    ├── 05a-volume-attached.png
     ├── 05b-volume-attached-detail.png
-    ├── 06-data-verified.png
+    ├── 06a-data-verified.png
     ├── 06b-data-verified-mount.png
-    ├── 07-cleanup-instance.png
+    ├── 07a-cleanup-instance.png
     ├── 07b-cleanup-volumes.png
     └── 07c-cleanup-snapshots.png
 ```
